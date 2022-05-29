@@ -97,7 +97,7 @@ const filmes = [
   },
   {
     id: 13,
-    nome: 'Resident Evil: Bem-Vindo a Raccoon City ',
+    nome: 'Resident Evil: Bem-Vindo a Raccoon City',
     categoria: 'Ação',
     descricao:
       'O que já foi um dia a casa da gigante farmacêutica em expansão Umbrella Corporation, Raccoon City, é agora uma cidade agonizante do meio-oeste.',
@@ -121,7 +121,7 @@ const filmes = [
   },
   {
     id: 16,
-    nome: 'tick, tick...BOOM! ',
+    nome: 'tick, tick...BOOM!',
     categoria: 'Drama',
     descricao:
       'Prestes a fazer 30 anos, o compositor Jonathan Larson reluta para levar adiante seu sonho de escrever um grande musical.',
@@ -129,7 +129,7 @@ const filmes = [
   },
   {
     id: 17,
-    nome: 'Alerta Vermelho    ',
+    nome: 'Alerta Vermelho',
     categoria: 'Comédia',
     descricao:
       'No mundo do crime internacional, a INTERPOL lança um Alerta Vermelho, o que inicia uma caçada para capturar a mais notória ladra de artes do globo',
@@ -165,7 +165,7 @@ const filmes = [
     categoria: 'Romance',
     descricao:
       'Haruto se apaixona por uma mulher alegre chamada Misaki. Os dois vivem momentos muito felizes e querem passar o resto da vida juntos. Mas a moça sofre de uma rara doença que faz com que ela envelheça mais rápido do que o normal.',
-    url: 'https://raw.githubusercontent.com/ottogugel/lista-de-filmes/main/assets/img/images%20(21).jpg'
+    url: 'https://raw.githubusercontent.com/ottogugel/lista-de-filmes/main/assets/img/image%20(31).jpg'
   },
   {
     id: 22,
@@ -173,13 +173,13 @@ const filmes = [
     categoria: 'Romance',
     descricao:
       'Uma adolescente perde o amor da sua vida em um trágico acidente. Arrasada, a jovem começa a achar que o rapaz está se comunicando com ela do além.',
-    url: 'https://raw.githubusercontent.com/ottogugel/lista-de-filmes/main/assets/img/images%20(22).jpg'
+    url: 'https://raw.githubusercontent.com/ottogugel/lista-de-filmes/main/assets/img/image%20(33).jpg'
   },
   {
     id: 23,
-    nome: '',
-    categoria: '',
-    descricao: '',
+    nome: 'Nossos Sonhos de Marte',
+    categoria: 'Romance',
+    descricao: 'Em um futuro em que Marte é habitável, dois universitários embarcam escondidos em uma nave em direção ao planeta vermelho para encontrarem suas amadas.',
     url: ''
   }
 ]
