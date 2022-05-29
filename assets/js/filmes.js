@@ -165,7 +165,7 @@ const filmes = [
     categoria: 'Romance',
     descricao:
       'Haruto se apaixona por uma mulher alegre chamada Misaki. Os dois vivem momentos muito felizes e querem passar o resto da vida juntos. Mas a moça sofre de uma rara doença que faz com que ela envelheça mais rápido do que o normal.',
-    url: 'https://raw.githubusercontent.com/ottogugel/lista-de-filmes/main/assets/img/images%20(21-).jpg'
+    url: 'https://raw.githubusercontent.com/ottogugel/lista-de-filmes/main/assets/img/images%20(21).jpg'
   },
   {
     id: 22,
@@ -173,7 +173,7 @@ const filmes = [
     categoria: 'Romance',
     descricao:
       'Uma adolescente perde o amor da sua vida em um trágico acidente. Arrasada, a jovem começa a achar que o rapaz está se comunicando com ela do além.',
-    url: ''
+    url: 'https://raw.githubusercontent.com/ottogugel/lista-de-filmes/main/assets/img/images%20(22).jpg'
   },
   {
     id: 23,
