@@ -38,4 +38,4 @@ Projeto desenvolvido na maratona de programação da Kenzie Academy Brasil.
 - [w3schools - js](https://www.w3schools.com/js/default.asp)
 - [Introdução CSS BEM](http://getbem.com/introduction/)
 - [CSS BEM](http://getbem.com/naming/)
-- [Kenzie] (https://www.kenzie.com.br/)
+- [Kenzie Academy Brasil](https://www.kenzie.com.br/)
